@@ -1,0 +1,30 @@
+
+        body {
+            background-color: lightblue;
+        }
+
+        #fk {
+            color: darkgreen;
+        }
+    
+        #fk:hover {
+            color: red;
+        }
+        .link-button {
+            display: inline-block;
+            text-align: center;
+            background-color: lightcoral;
+            color: darkred;
+            font-size: larger;
+            padding: 10px 20px;
+            text-decoration: none;
+            border: 1px solid black;
+            border-radius: 5px;
+            cursor: pointer;
+
+            margin: 0 auto;
+
+        }
+        .link-button:hover {
+            background-color: coral;
+        }
